@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi I'm Seungju, I'm a dreamer of studying LLM.
+# 👋 I'm Seungju. We are interested in developing non-English LLMs and transferring knowledge from large language models to smaller ones.
 ![header](https://capsule-render.vercel.app/api?type=wave&color=##FF9900&height=300&section=header&text=Seungju&fontSize=60)
 
 </div>
