@@ -30,8 +30,6 @@ Here are some ideas to get you started:
   ### 💻 Programming Language
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-276DC3?style=flat-square&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/C-276DC3?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br/> 
  
   ### 📚 Stacks
@@ -49,7 +47,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeXL-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
 
 
  </div>
