@@ -2,7 +2,9 @@
 
 # 👋 Hi I'm Seungju, I'm a dreamer of studying LLM.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungjuofficial)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=Kisooofficial&fontSize=80)
 
+</div>
 
 ## 🔭About me
 
