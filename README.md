@@ -11,7 +11,7 @@ We are interested in developing non-English LLMs and transferring knowledge from
 - [Development of Solar-based Self-Introduction Correction LLM Model using SFT](https://huggingface.co/cpm-ai/Ocelot-Ko-self-instruction-10.8B-v1.0) ```2024.02 ~ 2024.03```
 - Development of Gemma 2B Korean Pre-trained Model ```2024.04 ~ 2024.07```
 - Application of Quantization to LLM Model using llama.cpp ```2024.05 ~ 2024.05```
-- [Development of Llama3-8b Model using Chat-Vector and Orpo](cpm-ai/Llama3-Ocelot-8B-instruct-v01) ```2024.05 ~ 2024.06```
+- [Development of Llama3-8b Model using Chat-Vector and Orpo](https://huggingface.co/cpm-ai/Llama3-Ocelot-8B-instruct-v01) ```2024.05 ~ 2024.06```
 - [Development of Korean LLAVA Model using Chat-Vector](https://huggingface.co/nebchi/Llama3-Chat_Vector-kor_llava) ```2024.06 ~ 2024.07```
 - [Development of Korean Financial LLM Leaderboard](https://github.com/NUMCHCOMCH/Kor_Finance-leaderboard) ```2024.07 ~ 2024.08```
 
