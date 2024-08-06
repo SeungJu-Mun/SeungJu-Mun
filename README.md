@@ -2,10 +2,10 @@
 
 # 👋 I'm Seungju. 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=##FF9900&height=300&section=header&text=Seungju&fontSize=60)
-We are interested in developing non-English LLMs and transferring knowledge from large language models to smaller ones.
 </div>
 
 ## 🔭About me
+We are interested in developing non-English LLMs and transferring knowledge from large language models to smaller ones.
 
 ### ⚡  Project Experience
 - [Development of Solar-based Self-Introduction Correction LLM Model using SFT](https://huggingface.co/cpm-ai/Ocelot-Ko-self-instruction-10.8B-v1.0) ```2024.02 ~ 2024.03```
