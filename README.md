@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi I'm Seungju, I'm a dreamer of studying LLM.
-![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=Seungju&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#FFA500&height=200&section=header&text=Seungju&fontSize=60)
 
 </div>
 
@@ -15,7 +15,7 @@
 - [Development of Korean LLAVA Model using Chat-Vector](https://huggingface.co/nebchi/Llama3-Chat_Vector-kor_llava) ```2024.06 ~ 2024.07```
 - [Development of Korean Financial LLM Leaderboard](https://github.com/NUMCHCOMCH/Kor_Finance-leaderboard) ```2024.07 ~ 2024.08```
 
-### 😄 Interests
+### 😄 Areas of Interest
 - Machine Learning / Deep Learning
 - LLM Pretrain / Fine-Tuning
 - Quantization / Knowledge Distillation
