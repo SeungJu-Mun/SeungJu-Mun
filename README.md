@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi I'm Seungju, I'm a dreamer of studying LLM.
-![header](https://capsule-render.vercel.app/api?type=wave&color=#FFA500&height=200&section=header&text=Seungju&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#FFA500&height=300&section=header&text=Seungju&fontSize=60)
 
 </div>
 
