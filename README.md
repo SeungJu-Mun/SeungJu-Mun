@@ -72,3 +72,6 @@ Here are some ideas to get you started:
 <a href="mailto:anstmdwn34@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anstmdwn34@gmail.com"/>
 </a>
+
+## 🏆 Competitions
+- 🏅 2023 인공지능콘텐츠융합창작랩 AI 융합 콘텐츠 공모전 - **1nd placed** [[overview]([https://dacon.io/competitions/official/235959/overview/description](https://www.gicon.or.kr/board.es?mid=a10201000000&bid=0001&act=view&list_no=29919))]
