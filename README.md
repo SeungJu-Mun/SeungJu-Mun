@@ -22,11 +22,19 @@ Here are some ideas to get you started:
 🔥 So far, I have fine-tuned Solar, LLAMA3, Qwen2, and Gemma2 to develop domain-specific sLLMs.
 
 🔥 Recently, I have become interested in the LLAVA model and developed a Korean LLAVA model.
-  
+
+### ⚡ ExtraCurricular Activity
+- Development of Solar-based Self-Introduction Correction LLM Model using SFT '''2024.02 ~ 2024.03'''
+- Development of Gemma 2B Korean Pre-trained Model '''2024.04 ~ 2024.07'''
+- Application of Quantization to LLM Model using llama.cpp '''2024.05 ~ 2024.05'''
+- Development of Llama3-8b Model using Chat-Vector and Orpo '''2024.05 ~ 2024.06'''
+- Development of Korean LLAVA Model using Chat-Vector '''2024.06 ~ 2024.07'''
+- Development of Korean Financial LLM Leaderboard '''2024.07 ~ 2024.08'''
+
 ### 😄 Interests
 - Machine Learning / Deep Learning
 - LLM Pretrain / Fine-Tuning
-- Quantization / Model-Serving
+- Quantization / Knowledge Distillation
 
 <div>
 
