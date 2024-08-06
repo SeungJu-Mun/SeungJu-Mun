@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 🔥 So far, I have fine-tuned Solar, LLAMA3, Qwen2, and Gemma2 to develop domain-specific sLLMs.
 
 🔥 Recently, I have become interested in the LLAVA model and developed a Korean LLAVA model.
+  
+### 😄 Interests
+- Machine Learning / Deep Learning
+- LLM Pretrain / Fine-Tuning
+- Quantization / Model-Serving
 
 <div>
 
