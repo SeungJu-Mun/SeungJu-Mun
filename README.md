@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
  </div>
  
-### Fllow the link
+### ✉️ Fllow the link
  
 <a href="https://velog.io/@anstmdwn34/posts">
  <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@anstmdwn34/posts"/>
