@@ -74,4 +74,4 @@ Here are some ideas to get you started:
 </a>
 
 ## 🏆 Competitions
-- 🏅 2023 인공지능콘텐츠융합창작랩 AI 융합 콘텐츠 공모전 - **1nd placed** [[overview](https://www.gicon.or.kr/board.es?mid=a10201000000&bid=0001&act=view&list_no=29919)]
+- 🏅 2023 인공지능콘텐츠융합창작랩 AI 융합 콘텐츠 공모전(AI+ 콘텐츠 결과 부문) - **1nd placed** [[overview](https://www.gicon.or.kr/board.es?mid=a10201000000&bid=0001&act=view&list_no=29919)]
