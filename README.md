@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 I'm Seungju. We are interested in developing non-English LLMs and transferring knowledge from large language models to smaller ones.
+# 👋 I'm Seungju. 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=##FF9900&height=300&section=header&text=Seungju&fontSize=60)
-
+We are interested in developing non-English LLMs and transferring knowledge from large language models to smaller ones.
 </div>
 
 ## 🔭About me
