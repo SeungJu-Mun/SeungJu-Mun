@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 🔥 Recently, I have become interested in the LLAVA model and developed a Korean LLAVA model.
 
 ### ⚡  Project Experience
-- Development of Solar-based Self-Introduction Correction LLM Model using SFT ```2024.02 ~ 2024.03```
+- [Development of Solar-based Self-Introduction Correction LLM Model using SFT](https://huggingface.co/cpm-ai/Ocelot-Ko-self-instruction-10.8B-v1.0) ```2024.02 ~ 2024.03```
 - Development of Gemma 2B Korean Pre-trained Model ```2024.04 ~ 2024.07```
 - Application of Quantization to LLM Model using llama.cpp ```2024.05 ~ 2024.05```
 - Development of Llama3-8b Model using Chat-Vector and Orpo ```2024.05 ~ 2024.06```
