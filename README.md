@@ -13,15 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- HELLO!
 
-🌱 My area is NLP Developer !
-
-😄 I am interested in fine-tuning LLM models, optimizing inference, and multimodal tasks.
-
-🔥 So far, I have fine-tuned Solar, LLAMA3, Qwen2, and Gemma2 to develop domain-specific sLLMs.
-
-🔥 Recently, I have become interested in the LLAVA model and developed a Korean LLAVA model.
+## 🔭About me
 
 ### ⚡  Project Experience
 - [Development of Solar-based Self-Introduction Correction LLM Model using SFT](https://huggingface.co/cpm-ai/Ocelot-Ko-self-instruction-10.8B-v1.0) ```2024.02 ~ 2024.03```
@@ -64,7 +57,7 @@ Here are some ideas to get you started:
 
  </div>
  
-### ✉️ Fllow the link
+### 📫Contact
  
 <a href="https://velog.io/@anstmdwn34/posts">
  <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@anstmdwn34/posts"/>
