@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hello, I'm Seungju. I'm conducting research on sLLMs.  
+# 👋 Hello, I'm Seungju. I'm conducting research on sLLMs. 
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=FFA500&text=Seungju-Official&reversal=false&fontAlignY=48&descAlign=47&descAlignY=63&fontAlign=52)
 </div>
 
 ## 🔭About me
