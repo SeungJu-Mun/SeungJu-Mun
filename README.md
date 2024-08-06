@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Seungju, I'm a conducting research on sLLM models  
+# 👋 Hello, I'm Seungju. I'm conducting research on small large language models (sLLMs).  
 </div>
 
 ## 🔭About me
