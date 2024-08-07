@@ -51,7 +51,7 @@ We are interested in developing non-English LLMs and transferring knowledge from
 ### 📫Contact
  
 <a href="https://velog.io/@anstmdwn34/posts">
- <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@anstmdwn34/posts"/>
+ <img src="https://img.shields.io/badge/Tech blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@anstmdwn34/posts"/>
 </a>                                                                                                                                                   
 <a href="mailto:anstmdwn34@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anstmdwn34@gmail.com"/>
