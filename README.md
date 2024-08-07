@@ -49,13 +49,8 @@ We are interested in developing non-English LLMs and transferring knowledge from
  </div>
  
 ### 📫Contact
- 
-<a href="https://velog.io/@anstmdwn34/posts">
- <img src="https://img.shields.io/badge/Tech blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@anstmdwn34/posts"/>
-</a>                                                                                                                                                   
-<a href="mailto:anstmdwn34@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anstmdwn34@gmail.com"/>
-</a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anstmdwn34@gmail.com)](mailto:anstmdwn34@gmail.com) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@anstmdwn34/posts)](https://velog.io/@anstmdwn34/posts)
 
 ## 🏆 Competitions
 - 🏅 2023 인공지능콘텐츠융합창작랩 AI 융합 콘텐츠 공모전(AI+ 콘텐츠 결과 부문) - **1nd placed** [[overview](https://www.gicon.or.kr/board.es?mid=a10201000000&bid=0001&act=view&list_no=29919)]
