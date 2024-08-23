@@ -54,4 +54,4 @@ We are interested in developing non-English LLMs and transferring knowledge from
 
 ## 🏆 Competitions
 - 🏅 2023 인공지능콘텐츠융합창작랩 AI 융합 콘텐츠 공모전(AI+ 콘텐츠 결과 부문) - **1nd placed** [[overview](https://www.gicon.or.kr/board.es?mid=a10201000000&bid=0001&act=view&list_no=29919)]
-- 🥉 2024 데이콘 재정정보 AI 검색 알고리즘 경진대 - Top 9.5% (34/359) [[overview](https://dacon.io/competitions/official/236295/leaderboard)]
+- 2024 데이콘 재정정보 AI 검색 알고리즘 경진대회 - Top 9.5% (34/359) [[overview](https://dacon.io/competitions/official/236295/leaderboard)]
