@@ -54,5 +54,6 @@ We are interested in developing non-English LLMs and transferring knowledge from
 
 ## 🏆 Competitions
 - 🏅 2023 인공지능콘텐츠융합창작랩 AI 융합 콘텐츠 공모전(AI+ 콘텐츠 결과 부문) - **1nd placed** [[overview](https://www.gicon.or.kr/board.es?mid=a10201000000&bid=0001&act=view&list_no=29919)]
-- 🏅 2024 한국어 언어 이해 경진대회 - 대화맥락추론(나) 부분 은상 수상, 일상대화요약(나) 부분 특별상 수상 [[overview](https://kli.korean.go.kr/benchmark/taskBoardsOrdtm/boardsOrdtm/noticeView.do?page=0&recordId=134&boardOrdtmId=&base.condition=boardOrdtm.title&base.keyword=&size=10)]
+- 🏅 2024 국립국어원 인공지능의 한국어 능력 평가 경진대회 - 대화맥락추론(나) 부분 은상 수상 [[overview](https://kli.korean.go.kr/benchmark/taskBoardsOrdtm/boardsOrdtm/noticeView.do?page=0&recordId=134&boardOrdtmId=&base.condition=boardOrdtm.title&base.keyword=&size=10)]
+- 🏅 2024 국립국어원 인공지능의 한국어 능력 평가 경진대회 - 일상대화요약(나) 부분 특별상 수상 [[overview](https://kli.korean.go.kr/benchmark/taskBoardsOrdtm/boardsOrdtm/noticeView.do?page=0&recordId=134&boardOrdtmId=&base.condition=boardOrdtm.title&base.keyword=&size=10)]
 - 2024 데이콘 재정정보 AI 검색 알고리즘 경진대회 - Top 9.5% (34/359) [[overview](https://dacon.io/competitions/official/236295/leaderboard)]
