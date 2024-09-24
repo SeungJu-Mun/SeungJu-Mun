@@ -13,8 +13,9 @@ We are interested in developing non-English LLMs and transferring knowledge from
 - Application of Quantization to LLM Model using llama.cpp ```2024.06 ~ 2024.06```
 - [Development of Korean LLAVA Model using Chat-Vector](https://huggingface.co/nebchi/Llama3-Chat_Vector-kor_llava) ```2024.06 ~ 2024.07```
 - [Development of Korean Financial LLM Leaderboard](https://github.com/NUMCHCOMCH/Kor_Finance-leaderboard) ```2024.07 ~ 2024.08```
-- Development of Gemma2-2B Korean Pre-trained Model(Unsloth Continual Pretrain) ```2024.08 ~ ```
-- Application of Quantization to LLM Model using TensorRT-LLM&Triton ```2024.08 ~ ```
+- Application of Quantization to LLM Model using TensorRT-LLM&Triton ```2024.08 ~ 2024.09 ```
+- Development of Gemma2-2B Korean Pre-trained Model(Unsloth Continual Pretrain) ```2024.09 ~ 2024.09 ```
+```
 
 ### 😄 Areas of Interest
 - Machine Learning / Deep Learning
