@@ -15,7 +15,6 @@ We are interested in developing non-English LLMs and transferring knowledge from
 - [Development of Korean Financial LLM Leaderboard](https://github.com/NUMCHCOMCH/Kor_Finance-leaderboard) ```2024.07 ~ 2024.08```
 - Application of Quantization to LLM Model using TensorRT-LLM&Triton ```2024.08 ~ 2024.09 ```
 - Development of Gemma2-2B Korean Pre-trained Model(Unsloth Continual Pretrain) ```2024.09 ~ 2024.09 ```
-```
 
 ### 😄 Areas of Interest
 - Machine Learning / Deep Learning
