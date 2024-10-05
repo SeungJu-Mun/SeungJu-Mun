@@ -47,8 +47,7 @@ We are interested in developing non-English LLMs and transferring knowledge from
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
 
-
- </div>
+</div>
  
 ### 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anstmdwn34@gmail.com)](mailto:anstmdwn34@gmail.com) 
