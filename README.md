@@ -8,24 +8,24 @@
 We are interested in developing non-English LLMs and transferring knowledge from large language models to smaller ones.
 
 ### ⚡ research Experience
-1.Development of Finance-domain Specialized LLM 2024.04 ~ 2024.06
+1.Development of Finance-domain Specialized LLM `2024.04 ~ 2024.06`
 - Fine-tuned small LLMs (Gemma, LLaMA) with LoRA and SFT/DPO for finance-specific tasks such as consultations, product guides, and investment analysis.
 - Built a preprocessing pipeline using SimHash deduplication, OCR, and LLM-based quality filtering.
 - Optimized LoRA hyperparameters, and utilized Accelerate & FSDP for distributed training.
 - Quantized the model with GPTQ (8-bit), integrated vLLM for fast inference, and deployed a benchmark via Streamlit.
 - Achieved 20% performance improvement and halved inference latency.
 
-2.Development of Korean Financial LLM Leaderboard 2024.06 ~ 2024.06
+2.Development of Korean Financial LLM Leaderboard `2024.06 ~ 2024.06`
 - Created domain-specific evaluation benchmark and leaderboard in collaboration with universities and experts.
 
-3.Development of On-device sLLM for Summarization 2024.07 ~ 2024.09
+3.Development of On-device sLLM for Summarization `2024.07 ~ 2024.09`
 - Constructed a continual pretraining setup on 8×A100 GPUs using Axolotl and Accelerate.
 - Extended tokenizer with SentencePiece and initialized embeddings via token-average.
 - Applied group_by_length batching for efficient resource usage, and fine-tuned using SFT/DPO with Evol-Instruct datasets.
 - Quantized model to 4/8-bit using llama.cpp for CPU inference.
 - Improved ROUGE summarization scores by 25%, with 30% compression gain on Korean tokens.
 
-4.RAG Pipeline Design and Deployment 2024.11 ~ 2025.03
+4.RAG Pipeline Design and Deployment `2024.11 ~ 2025.04`
 - Designed and deployed RAG systems for finance, law, and public sectors using Chroma, Qdrant, and OpenSearch.
 - Parsed documents across PDF, DOCX, PPTX, and HWP using OCR and customized parsers.
 - Applied various chunking strategies (recursive, markdown, semantic) and implemented metadata filtering based on intent classification.
