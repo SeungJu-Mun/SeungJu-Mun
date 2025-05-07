@@ -8,29 +8,29 @@
 We are interested in developing non-English LLMs and transferring knowledge from large language models to smaller ones.
 
 ### ⚡ research Experience
-- Development of Finance-domain Specialized LLM `2024.04 ~ 2024.06`  
-  → Fine-tuned small LLMs (Gemma, LLaMA) with LoRA and SFT/DPO for finance-specific tasks such as consultations, product guides, and investment analysis.
-  → Built a preprocessing pipeline using SimHash deduplication, OCR, and LLM-based quality filtering.
-  → Optimized LoRA hyperparameters, and utilized Accelerate & FSDP for distributed training.
-  → Quantized the model with GPTQ (8-bit), integrated vLLM for fast inference, and deployed a benchmark via Streamlit.
-  → Achieved 20% performance improvement and halved inference latency.
+Development of Finance-domain Specialized LLM 2024.04 ~ 2024.06
+→ Fine-tuned small LLMs (Gemma, LLaMA) with LoRA and SFT/DPO for finance-specific tasks such as consultations, product guides, and investment analysis.
+→ Built a preprocessing pipeline using SimHash deduplication, OCR, and LLM-based quality filtering.
+→ Optimized LoRA hyperparameters, and utilized Accelerate & FSDP for distributed training.
+→ Quantized the model with GPTQ (8-bit), integrated vLLM for fast inference, and deployed a benchmark via Streamlit.
+→ Achieved 20% performance improvement and halved inference latency.
 
-- [Development of Korean Financial LLM Leaderboard](https://github.com/NUMCHCOMCH/Kor_Finance-leaderboard) `2024.06 ~ 2024.06`  
-  → Created domain-specific evaluation benchmark and leaderboard in collaboration with universities and experts.
+Development of Korean Financial LLM Leaderboard 2024.06 ~ 2024.06
+→ Created domain-specific evaluation benchmark and leaderboard in collaboration with universities and experts.
 
-- Development of On-device sLLM for Summarization `2024.07 ~ 2024.09`  
-  → Constructed a continual pretraining setup on 8×A100 GPUs using Axolotl and Accelerate.
-  → Extended tokenizer with SentencePiece and initialized embeddings via token-average.
-  → Applied group_by_length batching for efficient resource usage, and fine-tuned using SFT/DPO with Evol-Instruct datasets.
-  → Quantized model to 4/8-bit using llama.cpp for CPU inference.
-  → Improved ROUGE summarization scores by 25%, with 30% compression gain on Korean tokens.
+Development of On-device sLLM for Summarization 2024.07 ~ 2024.09
+→ Constructed a continual pretraining setup on 8×A100 GPUs using Axolotl and Accelerate.
+→ Extended tokenizer with SentencePiece and initialized embeddings via token-average.
+→ Applied group_by_length batching for efficient resource usage, and fine-tuned using SFT/DPO with Evol-Instruct datasets.
+→ Quantized model to 4/8-bit using llama.cpp for CPU inference.
+→ Improved ROUGE summarization scores by 25%, with 30% compression gain on Korean tokens.
 
-- RAG Pipeline Design and Deployment `2024.11 ~ 2025.03`  
-  → Designed and deployed RAG systems for finance, law, and public sectors using Chroma, Qdrant, and OpenSearch.
-  → Parsed documents across PDF, DOCX, PPTX, and HWP using OCR and customized parsers.
-  → Applied various chunking strategies (recursive, markdown, semantic) and implemented metadata filtering based on intent classification.
-  → Enhanced retrieval accuracy with hybrid search and rerankers; implemented function-calling agents for tabular insights.
-  → Containerized and deployed via FastAPI and Docker Compose, reducing QA time through automated testing.
+RAG Pipeline Design and Deployment 2024.11 ~ 2025.03
+→ Designed and deployed RAG systems for finance, law, and public sectors using Chroma, Qdrant, and OpenSearch.
+→ Parsed documents across PDF, DOCX, PPTX, and HWP using OCR and customized parsers.
+→ Applied various chunking strategies (recursive, markdown, semantic) and implemented metadata filtering based on intent classification.
+→ Enhanced retrieval accuracy with hybrid search and rerankers; implemented function-calling agents for tabular insights.
+→ Containerized and deployed via FastAPI and Docker Compose, reducing QA time through automated testing.
 
 ### 😄 Areas of Interest
 - Machine Learning / Deep Learning
