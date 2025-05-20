@@ -36,7 +36,7 @@ We are interested in developing non-English LLMs and transferring knowledge from
 - Machine Learning / Deep Learning
 - LLM Pretrain / Fine-Tuning
 - Quantization / Knowledge Distillation
-
+- RAG / Agent
 <div>
 
 ## ⚡ Skills ⚡
