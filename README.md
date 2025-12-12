@@ -1,85 +1,122 @@
 <div align="center">
 
-# 👋 Hello, I'm Seungju. I'm conducting research on sLLM. 
+# 👋 Hello, I'm Seungju
+### Data Engineer & ML Engineer specialized in LLM/sLLM Development
+
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=ADFF2F&text=NUMCHCOMCH&reversal=false&fontAlignY=48&descAlign=47&descAlignY=63&fontAlign=52)
+
 </div>
 
-## 🔭About me
-We are interested in developing non-English LLMs and transferring knowledge from large language models to smaller ones.
+## 🔭 About Me
 
-### ⚡ research Experience
-1.Development of Finance-domain Specialized LLM `2024.04 ~ 2024.06`
-- Fine-tuned small LLMs (Gemma, LLaMA) with LoRA and SFT/DPO for finance-specific tasks such as consultations, product guides, and investment analysis.
-- Built a preprocessing pipeline using SimHash deduplication, OCR, and LLM-based quality filtering.
-- Optimized LoRA hyperparameters, and utilized Accelerate & FSDP for distributed training.
-- Quantized the model with GPTQ (8-bit), integrated vLLM for fast inference, and deployed a benchmark via Streamlit.
-- Achieved 20% performance improvement and halved inference latency.
+I focus on developing non-English LLMs and building efficient ML pipelines for production environments. My work spans the full MLOps lifecycle—from data preprocessing and model training to inference optimization and monitoring.
 
-2.Development of Korean Financial LLM Leaderboard `2024.06 ~ 2024.06`
-- Created domain-specific evaluation benchmark and leaderboard in collaboration with universities and experts.
+## ⚡ Research & Project Experience
 
-3.Development of On-device sLLM for Summarization `2024.07 ~ 2024.09`
-- Constructed a continual pretraining setup on 8×A100 GPUs using Axolotl and Accelerate.
-- Extended tokenizer with SentencePiece and initialized embeddings via token-average.
-- Applied group_by_length batching for efficient resource usage, and fine-tuned using SFT/DPO with Evol-Instruct datasets.
-- Quantized model to 4/8-bit using llama.cpp for CPU inference.
-- Improved ROUGE summarization scores by 25%, with 30% compression gain on Korean tokens.
+### 1. Legal Domain Translation LLM Pipeline 
+*End-to-end LLMOps infrastructure for low-resource language translation*
 
-4.RAG Pipeline Design and Deployment `2024.11 ~ 2025.04`
-- Designed and deployed RAG systems for finance, law, and public sectors using Chroma, Qdrant, and OpenSearch.
-- Parsed documents across PDF, DOCX, PPTX, and HWP using OCR and customized parsers.
-- Applied various chunking strategies (recursive, markdown, semantic) and implemented metadata filtering based on intent classification.
-- Enhanced retrieval accuracy with hybrid search and rerankers; implemented function-calling agents for tabular insights.
-- Containerized and deployed via FastAPI and Docker Compose, reducing QA time through automated testing.
+- Designed data preprocessing pipeline with MQM-based quality filtering and MinHash deduplication
+- Built inference infrastructure using vLLM and TEI on AWS GPU instances (L40s/H100)
+- Implemented comprehensive observability stack: OpenTelemetry, Jaeger, Grafana, Prometheus
+- Achieved significant BLEU score improvements for Japanese, Urdu, and French translation tasks
+- Optimized training environment with NVMe migration, improving efficiency by 37%
 
-### 😄 Areas of Interest
-- Machine Learning / Deep Learning
-- LLM Pretrain / Fine-Tuning
+### 2. Legal Domain RAG System Development 
+*Production-grade retrieval-augmented generation for enterprise applications*
+
+- Deployed RAG systems for finance, legal, and public sector domains using Qdrant and OpenSearch
+- Implemented hybrid search with HNSW parameter tuning, achieving 33~50% latency reduction
+- Built multi-format document parsing pipeline (PDF, DOCX, PPTX, HWP/HWPX) with OCR integration
+- Developed LLM routing architecture for multi-model orchestration and scalability
+- Created automated evaluation system using Levenshtein distance and BLEU score metrics
+- Established real-time monitoring for TPS, token usage, and retrieval relevance tracking
+
+### 3. Finance-Domain Specialized LLM 
+*Domain-adapted small language models for financial services*
+
+- Fine-tuned Gemma and LLaMA with LoRA using SFT/DPO for finance-specific tasks
+- Built preprocessing pipeline: SimHash deduplication, OCR, LLM-based quality filtering
+- Utilized Accelerate & FSDP for distributed training, quantized with GPTQ (8-bit)
+- Deployed inference server with vLLM, achieving 50% latency reduction and 20% performance gain
+
+### 4. On-Device sLLM for Summarization 
+*Lightweight language model optimized for edge deployment*
+
+- Conducted continual pretraining on 8×A100 GPUs using Axolotl and Accelerate
+- Extended tokenizer with SentencePiece, initialized embeddings via token-average method
+- Quantized to 4/8-bit using llama.cpp for CPU inference
+- Improved ROUGE scores by 25% with 30% compression gain on Korean tokens
+
+### 5. Korean Financial LLM Leaderboard 
+- Co-developed domain-specific evaluation benchmark in collaboration with universities and industry experts
+
+## 📝 Tech Blog Contributions
+
+| Platform | Title | Description |
+|----------|-------|-------------|
+| [Devocean OpenLab](https://devocean.sk.com/community/detail.do?ID=167787) | 나만의 온디바이스 AI 구현을 위한 로컬 LLM 환경 구축 | Data preprocessing pipeline & training environment setup for on-device spam filtering LLM using SimHash deduplication, Curriculum Learning, and Knowledge Distillation |
+
+## 😄 Areas of Interest
+
+- LLM Pretraining / Fine-tuning (SFT, DPO, RLHF)
 - Quantization / Knowledge Distillation
-- RAG / Agent
+- RAG / Agent Development
+- MLOps / LLMOps Infrastructure
+- Observability & Monitoring
+
 <div>
 
-## ⚡ Skills ⚡
+## ⚡ Skills
 
-  ### 💻 Programming Language
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br/> 
- 
-  ### 📚 Stacks
-<!-- Python & ML Stack -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+### 💻 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+
+### 🤖 ML/DL Stack
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging Face-FFD21F?style=flat-square&logo=HuggingFace&logoColor=black">
+<img src="https://img.shields.io/badge/vLLM-000000?style=flat-square&logo=v&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Axolotl-FF6B6B?style=flat-square">
 
-<!-- Backend & DevOps -->
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
+### 🗄️ Data & Vector DB
+<img src="https://img.shields.io/badge/Qdrant-6E40C9?style=flat-square&logo=Qdrant&logoColor=white">
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+
+### ☁️ Infrastructure & DevOps
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 
-<!-- Vector DB & LLM -->
-<img src="https://img.shields.io/badge/Qdrant-6E40C9?style=flat-square&logo=Qdrant&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging Face-FFD21F?style=flat-square&logo=HuggingFace&logoColor=black">
+### 📊 Observability
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black">
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white">
 
-  
-  ### 🛠 Tools
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+### 🛠️ Tools
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
 
- </div>
- 
-### 📫Contact
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anstmdwn34@gmail.com)](mailto:anstmdwn34@gmail.com) 
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@anstmdwn34/posts)
+</div>
 
 ## 🏆 Competitions
-- 🥇 2023 인공지능콘텐츠융합창작랩 AI 융합 콘텐츠 공모전(AI+ 콘텐츠 결과 부문) - **1nd placed** [[overview](https://www.gicon.or.kr/board.es?mid=a10201000000&bid=0001&act=view&list_no=29919)]
-- 🥈 2024 국립국어원 인공지능의 한국어 능력 평가 경진대회 - 대화맥락추론(나) 부분 은상 수상 [[overview](https://kli.korean.go.kr/benchmark/taskBoardsOrdtm/boardsOrdtm/noticeView.do?page=0&recordId=134&boardOrdtmId=&base.condition=boardOrdtm.title&base.keyword=&size=10)]
-- 🥉 2024 국립국어원 인공지능의 한국어 능력 평가 경진대회 - 일상대화요약(나) 부분 특별상 수상 [[overview](https://kli.korean.go.kr/benchmark/taskBoardsOrdtm/boardsOrdtm/noticeView.do?page=0&recordId=134&boardOrdtmId=&base.condition=boardOrdtm.title&base.keyword=&size=10)]
-- 2024 데이콘 재정정보 AI 검색 알고리즘 경진대회 - Top 9.5% (34/359) [[overview](https://dacon.io/competitions/official/236295/leaderboard)]
+
+| Year | Competition | Result |
+|------|-------------|--------|
+| 2025 | 국립국어원 인공지능의 한국어 능력 평가 - 한국문화질의응답(나) | 🥈 Silver |
+| 2025 | 국립국어원 인공지능의 한국어 능력 평가 - 한국문화질의응답(나) | 🥉 Special Award |
+| 2024 | 국립국어원 인공지능의 한국어 능력 평가 - 대화맥락추론(나) | 🥈 Silver |
+| 2024 | 국립국어원 인공지능의 한국어 능력 평가 - 일상대화요약(나) | 🥉 Special Award |
+| 2024 | 데이콘 재정정보 AI 검색 알고리즘 경진대회 | Top 9.5% (34/359) |
+| 2023 | 인공지능콘텐츠융합창작랩 AI 융합 콘텐츠 공모전 | 🥇 1st Place |
+
+## 📫 Contact
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anstmdwn34@gmail.com)](mailto:anstmdwn34@gmail.com) 
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@anstmdwn34/posts)
