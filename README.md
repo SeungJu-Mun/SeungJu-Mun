@@ -13,24 +13,23 @@ I focus on developing non-English LLMs and building efficient ML pipelines for p
 
 ## ⚡ Research & Project Experience
 
-### 1. Legal Domain Translation LLM Pipeline 
-*End-to-end LLMOps infrastructure for low-resource language translation*
+### 1. Domain-Specific Translation LLM Pipeline
+*End-to-end LLMOps infrastructure for multilingual, low-resource translation*
 
-- Designed data preprocessing pipeline with MQM-based quality filtering and MinHash deduplication
-- Built inference infrastructure using vLLM and TEI on AWS GPU instances (L40s/H100)
-- Implemented comprehensive observability stack: OpenTelemetry, Jaeger, Grafana, Prometheus
-- Achieved significant BLEU score improvements for Japanese, Urdu, and French translation tasks
-- Optimized training environment with NVMe migration, improving efficiency by 37%
+- Designed scalable data preprocessing and quality control pipelines for multilingual training data
+- Built GPU-based inference infrastructure using high-throughput LLM serving and embedding services on AWS
+- Implemented end-to-end observability for LLM inference, including tracing, metrics, and cost monitoring
+- Improved translation quality across multiple low-resource languages through iterative data and system optimization
+- Optimized training and inference environments by tuning storage and I/O architecture, significantly improving efficiency
 
 ### 2. Legal Domain RAG System Development 
 *Production-grade retrieval-augmented generation for enterprise applications*
 
-- Deployed RAG systems for finance, legal, and public sector domains using Qdrant and OpenSearch
-- Implemented hybrid search with HNSW parameter tuning, achieving 33~50% latency reduction
-- Built multi-format document parsing pipeline (PDF, DOCX, PPTX, HWP/HWPX) with OCR integration
-- Developed LLM routing architecture for multi-model orchestration and scalability
-- Created automated evaluation system using Levenshtein distance and BLEU score metrics
-- Established real-time monitoring for TPS, token usage, and retrieval relevance tracking
+- Developed and deployed RAG pipelines for multiple enterprise domains using vector and search engines
+- Implemented hybrid retrieval strategies and system-level tuning to reduce end-to-end latency
+- Built document ingestion pipelines supporting diverse formats with automated parsing and OCR integration
+0 Designed LLM routing and orchestration layers for multi-model scalability and extensibility
+- Established automated evaluation and monitoring pipelines for response quality, latency, and system usage
 
 ### 3. Finance-Domain Specialized LLM 
 *Domain-adapted small language models for financial services*
